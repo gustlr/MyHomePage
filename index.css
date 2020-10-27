@@ -1,0 +1,50 @@
+body {
+  padding-bottom: 20px;
+  display: -ms-flexbox;
+}
+
+body{
+  background-color: rgba(86, 127, 143, 0.54);
+}
+.navbar{
+  background-color: rgba(86, 127, 143, 0.54);
+  
+}
+.navbar-nav li a{
+  font-family: 'Raleway', sans-serif;
+  border-radius: 70px 70px 70px 70px;
+}
+.navbar-nav li a:hover{
+  background-color: rgba(86, 127, 143, 0.815);
+  border-radius: 70px 70px 70px 70px;
+}
+#headline{
+  background-color:  rgba(86, 127, 143, 0.54);
+  background-image:url("./image/fronthome.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: auto;
+}
+#inside{
+  background-color:  rgba(86, 127, 143, 0.54);
+  border-radius: 53px 53px 53px 53px;
+}
+#inside h1{
+  
+  margin-bottom: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+.col .col1{
+  text-align: center;
+}
+.col1 img{
+  size: 50%;
+}
+.col h2{
+  text-align: center;
+}
+.container-accom h1{
+  text-align: center;
+  font-family: 'Grenze Gotisch', cursive;
+}
