@@ -35,16 +35,38 @@ body{
   margin-bottom: 30px;
   font-family: 'Dancing Script', cursive;
 }
-.col .col1{
+.col .col{
   text-align: center;
 }
-.col1 img{
-  size: 50%;
+#firstcol img{
+  
+  display: block;
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  
 }
+#firstcol h2{
+  font-family: 'Grenze Gotisch', cursive;
+}
+#secCol img{
+  display: block;
+  width: 40%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
 .col h2{
   text-align: center;
+  font-family: 'Grenze Gotisch', cursive;
 }
 .container-accom h1{
   text-align: center;
   font-family: 'Grenze Gotisch', cursive;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
