@@ -5,7 +5,7 @@ input[type=text], select, textarea {
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; /* Make sure that padding and width stays in place */
     margin-top: 6px; /* Add a top margin */
-    margin-bottom: 16px; /* Bottom margin */
+    margin-bottom: 5px; /* Bottom margin */
     resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
   }
   
@@ -38,3 +38,13 @@ input[type=text], select, textarea {
   #conactme{
     margin-bottom: 30px;
   }
+  .error {
+    color: red;
+    font-size: 90%;
+    margin-top: -5;
+    }
+
+  .container form label{
+    margin-top: 10px;
+    font-weight: bold;
+  } 

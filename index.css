@@ -51,6 +51,11 @@ body{
 #firstcol h2{
   font-family: 'Grenze Gotisch', cursive;
 }
+#firstcol p{
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
 #secCol img{
   display: block;
   width: 40%;
@@ -59,7 +64,11 @@ body{
   margin-right: auto;
   margin-top: 40px;
 }
-
+#secCol p{
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
 .col h2{
   text-align: center;
   font-family: 'Grenze Gotisch', cursive;
@@ -70,3 +79,16 @@ body{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+#thridCol img{
+  display: block;
+  width: 70%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+ }
+ #thridCol p{
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+  margin-top: 30px;
+ }

@@ -32,9 +32,14 @@ body {
     display: block;
   }
 
-  #mypic{
-    float: right;
-  }
+  
+   
+    #mypic{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 70%;
+    }
   .fa {
     padding: 10px;
     font-size: 30px;
@@ -61,10 +66,9 @@ body {
     font-size: medium;
     padding-right: 20%;
   }
-  .page-footer{
-    background-color: #125688;
-    color: rgb(170, 166, 166);
-    margin: 40px 0px 0px 0px;
-    
+  #imgbox{
+    margin-bottom: 70px;
   }
-  
+#ppp{
+  margin-top: 30px;
+}
