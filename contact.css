@@ -48,3 +48,7 @@ input[type=text], select, textarea {
     margin-top: 10px;
     font-weight: bold;
   } 
+
+  section{
+    margin-bottom: 100px;
+  }
